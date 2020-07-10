@@ -1,0 +1,2 @@
+[workspace]
+members = ["adder", "data_structures_onrust", "iron-gcd", "minigrep"]
